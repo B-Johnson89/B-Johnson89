@@ -15,7 +15,7 @@
 
 📬 Want to connect? You can reach me at brianodellj@gmail.com, visit my LinkedIn profile at https://www.linkedin.com/in/brian-ojohnson/, or send me a message here on GitHub. I'm always open to meeting new people and exploring opportunities.
 
-Thanks for stopping by! 😄
+Thanks for stopping by! 
 
 
 <!---
