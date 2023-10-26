@@ -8,7 +8,7 @@
 
 🤝 I'm eager to collaborate with fellow cybersecurity enthusiasts and professionals on projects, research, and discussions. Let's make the internet more secure together!
 
-📬 Want to connect? You can reach me at brianodellj@gmail.com, visit my LinkedIn profile at https://www.linkedin.com/in/brian-ojohnson/, or message me here on GitHub. I'm always open to meeting new people and exploring opportunities.
+📬 Want to connect? You can visit my LinkedIn profile at https://www.linkedin.com/in/brian-ojohnson/, or message me here on GitHub. I'm always open to meeting new people and exploring opportunities.
 
 Thanks for stopping by!
 
