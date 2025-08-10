@@ -1,4 +1,4 @@
-# Brian Johnson – Cybersecurity Professional | SOC Analyst in Training
+# Cybersecurity Professional | SOC Analyst in Training
 
 I’m a U.S. Army veteran and IT professional transitioning into Security Operations and Incident Response.  
 Currently a Service Desk Agent at Logicalis, I handle account security, MFA investigations, and escalation of security incidents.  
