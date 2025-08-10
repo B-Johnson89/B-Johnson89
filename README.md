@@ -1,20 +1,38 @@
-👋 Hi there, I'm @B-Johnson89, better known as Brian Johnson!
+# Brian Johnson – Cybersecurity Professional | SOC Analyst in Training
 
-🎖️🇺🇸 I'm an Army veteran, and I'm proud of the experiences and skills I gained while serving our country.
+I’m a U.S. Army veteran and IT professional transitioning into Security Operations and Incident Response.  
+Currently a Service Desk Agent at Logicalis, I handle account security, MFA investigations, and escalation of security incidents.  
+I’m actively building advanced SOC skills through hands-on labs, simulations, and certifications.
 
-🔒🌐 I'm passionate about Cybersecurity and have graduated from Coding Dojo Cybersecurity Boot Camp. My goal is to make the digital world a safer place for everyone.
+---
 
-🏈🏋️‍♂️ When I'm not busy with cybersecurity, I enjoy watching sports (Go Birds!), working out, or researching a new destination to travel to. I love seeking new adventures in different countries and exploring diverse culinary delights on my travels.
+## 🔹 Core Competencies
+- **Security Monitoring & Triage:** SIEM log analysis, phishing investigation, MFA anomaly detection  
+- **Incident Response Workflow:** Detection, containment, eradication, recovery, and documentation  
+- **Identity & Access Management:** Active Directory, Azure AD, MFA administration  
+- **Tool Proficiency:** Splunk, Wireshark, Security Onion/Wazuh, Microsoft Security tools  
+- **Frameworks:** MITRE ATT&CK, NIST Cybersecurity Framework
 
-🤝 I'm eager to collaborate with fellow cybersecurity enthusiasts and professionals on projects, research, and discussions. Let's make the internet more secure together!
+---
 
-📬 Want to connect? You can visit my LinkedIn profile at https://www.linkedin.com/in/brian-ojohnson/, or message me here on GitHub. I'm always open to meeting new people and exploring opportunities.
+## 📜 Certifications
+- CompTIA Security+  
+- CompTIA A+  
+- Microsoft Azure Fundamentals (AZ-900)  
+- *In progress:* Blue Team Level 1 (BTL1), SC-900
 
-Thanks for stopping by!
+---
 
+## 📂 Featured Projects
+- **SOC Analyst Portfolio** *(Private – available upon request)*: Sanitized real incidents, simulated SOC labs, playbooks, and tool demos.  
+- **Cybersecurity Labs:** Splunk investigations, phishing simulations, and endpoint analysis.
 
+---
 
-<!---
-B-Johnson89/B-Johnson89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contact
+- **LinkedIn:** [linkedin.com/in/brian-ojohnson](https://www.linkedin.com/in/brian-ojohnson/)  
+- **Email:** brianodellj@gmail.com  
+
+---
+
+*Actively seeking opportunities in SOC Tier 1/2 or Incident Response. Open to remote or Philadelphia-area positions.*
