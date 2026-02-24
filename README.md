@@ -19,8 +19,7 @@ I’m actively building advanced SOC skills through hands-on labs, simulations, 
 - Blue Team Level 1 (BTL1)  
 - CompTIA Security+  
 - CompTIA A+  
-- Microsoft Azure Fundamentals (AZ-900)  
-- *In progress:* SC-900
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
