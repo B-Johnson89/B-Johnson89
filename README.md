@@ -55,8 +55,7 @@ Splunk, Wireshark, Windows Event Viewer, ServiceNow, Jira, Active Directory, Ent
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/brian-ojohnson  
-- Email: brianodellj@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/brian-ojohnson   
 
 ---
 
