@@ -22,9 +22,7 @@ This GitHub portfolio documents my cybersecurity development through sanitized r
 - Security Blue Team Level 1 (BTL1)  
 - CompTIA Security+  
 - CompTIA A+  
-- Microsoft Azure Fundamentals (AZ-900)  
-- NGT Cyber Security Associate  
-- Full Stack Network Associate  
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
